@@ -7,11 +7,11 @@ Hi there! I'm Smita, a recent Computer Science graduate from The Oxford College 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript
-**Frontend:** React, Redux, HTML5, CSS3
-**Backend:** Node.js, Express.js
-**Database:** MySQL, MongoDB
-**Tools & Others:** Git, GitHub, REST APIs, JWT, Multer
+**Languages:Java, JavaScript**
+**Frontend:React, Redux, HTML5, CSS3**
+**Backend:Node.js, Express.js**
+**Database: MySQL, MongoDB**
+**Tools & Others: Git, GitHub, REST APIs, JWT, Multer**
 
 ---
 
@@ -45,10 +45,6 @@ I'm always open to discussing technology, collaboration, or new opportunities.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/smita_hegde13/) 
 ---
 
-## 📊 Coding Activity
-
-<!-- This adds a fun snake animation that eats your contributions graph -->
-![Snake animation](https://raw.githubusercontent.com/Smitahegde13/Smitahegde13/output/github-contribution-grid-snake.svg)
 
 <!-- This shows a view counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Smitahegde13&color=blueviolet&style=flat)
