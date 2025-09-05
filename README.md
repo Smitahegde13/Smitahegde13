@@ -7,12 +7,11 @@ Hi there! I'm Smita, a recent Computer Science graduate from The Oxford College 
 
 ## 🛠️ Tech Stack
 
-**Languages:Java, JavaScript**
-**Frontend:React, Redux, HTML5, CSS3**
-**Backend:Node.js, Express.js**
-**Database: MySQL, MongoDB**
-**Tools & Others: Git, GitHub, REST APIs, JWT, Multer**
-
+- **Languages:** Java, JavaScript
+- **Frontend:** React, Redux, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools & Others:** Git, GitHub, REST APIs, JWT
 ---
 
 ## 📈 GitHub Stats
